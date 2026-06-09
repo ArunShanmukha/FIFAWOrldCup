@@ -7,3 +7,4 @@ This repository tracks FIFA World Cup data, results, and statistics.
 - Knockout round brackets
 - Top scorers
 - Team statistics
+- Pull request
